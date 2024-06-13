@@ -1,0 +1,64 @@
+<mxfile host="app.diagrams.net" modified="2024-06-13T12:28:27.133Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="FOQ4Wo1abJQmmlVL0mwX" version="24.5.4" type="device">
+  <diagram name="Страница — 1" id="_NXlk0MQKyUQHewqoqgS">
+    <mxGraphModel dx="1220" dy="1092" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="fFzDzp2afUG52Crcx0Jn-10" value="Клиент-часть" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fFzDzp2afUG52Crcx0Jn-11" value="Сервис услуг" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fFzDzp2afUG52Crcx0Jn-13" value="Сервис менджемента воркеров" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="675" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fFzDzp2afUG52Crcx0Jn-14" value="Монетизация" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="535" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fFzDzp2afUG52Crcx0Jn-15" value="Сервис менджмента" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fFzDzp2afUG52Crcx0Jn-16" value="010&lt;br&gt;020&lt;br&gt;111&lt;br&gt;112&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="170" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fFzDzp2afUG52Crcx0Jn-17" value="021&lt;br&gt;110&lt;br&gt;111" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="285" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fFzDzp2afUG52Crcx0Jn-18" value="030&lt;br&gt;040&lt;br&gt;050&lt;br&gt;111&lt;br&gt;190&lt;br&gt;200&lt;br&gt;210&lt;br&gt;220&lt;br&gt;230&lt;br&gt;240" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="535" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fFzDzp2afUG52Crcx0Jn-19" value="050&lt;br&gt;060&lt;br&gt;070&lt;br&gt;101&lt;br&gt;120&lt;br&gt;130" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="690" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fFzDzp2afUG52Crcx0Jn-20" value="Сервис найма воркеров" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="790" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fFzDzp2afUG52Crcx0Jn-21" value="080&lt;br&gt;090&lt;br&gt;100&lt;br&gt;101" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="790" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fFzDzp2afUG52Crcx0Jn-22" value="Сервис расходников" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="940" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fFzDzp2afUG52Crcx0Jn-24" value="130&lt;br&gt;140&lt;br&gt;150&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="955" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fFzDzp2afUG52Crcx0Jn-25" value="160&lt;br&gt;170&lt;br&gt;180" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="400" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fFzDzp2afUG52Crcx0Jn-26" value="Сервис нотификаций" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="1060" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fFzDzp2afUG52Crcx0Jn-27" value="270-276" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="1060" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fFzDzp2afUG52Crcx0Jn-28" value="Ставки" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="535" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fFzDzp2afUG52Crcx0Jn-29" value="250&lt;br&gt;251&lt;br&gt;260&lt;br&gt;261&lt;br&gt;262" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="660" y="550" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
